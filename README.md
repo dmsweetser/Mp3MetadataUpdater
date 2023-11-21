@@ -16,7 +16,7 @@ This script recursively processes MP3 files in a given directory, creating album
 5. Run the script:
 
     ```bash
-    python script_name.py
+    python Metadata.py
     ```
 
 ## Functionality
