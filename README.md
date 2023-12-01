@@ -1,4 +1,5 @@
 # MP3 Metadata Updater
+_Built in collaboration with generative AI_
 
 This script recursively processes MP3 files in a given directory, creating albums and setting metadata using the Mutagen library.
 
